@@ -2,9 +2,14 @@
 <h1 align="center">Hi there 👋,I am Zura</h1>
 <h3 align="center">I'm a Front-End Developer from Georgia</h3>
 <br>
+
 - 🔭 I’m currently working on **various websites**
 
+- 👀 I’m interested in Backend Development, Python.
+
 - 🌱 I’m currently learning **everything :grinning:**
+
+- :computer: I trying to improve myself everyday
 
 - 👨‍💻 All of my projects are available at [zuradoreuli.ge](zuradoreuli.ge)
 
