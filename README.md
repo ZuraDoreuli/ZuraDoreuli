@@ -1,9 +1,7 @@
 [![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://zuradoreuli.ge)
 <h1 align="center">Hi there 👋,I am Zura</h1>
 <h3 align="center">I'm a Front-End Developer from Georgia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuradoreuli&label=Profile%20views&color=0e75b6&style=flat" alt="zuradoreuli" /> </p>
-
+<br>
 - 🔭 I’m currently working on **various websites**
 
 - 🌱 I’m currently learning **everything :grinning:**
@@ -56,8 +54,6 @@
   <a href="#" title="ZuraDoreuli">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuradoreuli&show_icons=true&locale=en&layout=compact" alt="zuradoreuli"/>
   </a>
-  <a href="#" title="ZuraDoreuli">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=zuradoreuli&show_icons=true&locale=en" alt="zuradoreuli"/>
-  </a>
 </div>
-
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuradoreuli&label=Profile%20views&color=0e75b6&style=flat" alt="zuradoreuli" /> </p>
