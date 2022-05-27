@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuradoreuli&show_icons=true&locale=en" alt="zuradoreuli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuradoreuli&" alt="zuradoreuli" /></p>
+
