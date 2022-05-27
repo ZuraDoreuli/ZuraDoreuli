@@ -20,8 +20,6 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -39,19 +37,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-<!--   <a href="https://facebook.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="zuradoreuli-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="zuradoreuli-linkedin" />
-  </a>
-  <a href="https://instagram.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="zuradoreuli-instagram" />
-  </a>
-  <a href="gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="zuradoreuli-email" />
-  </a> -->
-  
   <a href="https://www.linkedin.com/in">
     <img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
   </a>
@@ -60,17 +45,7 @@
   </a>
 	<a href="https://www.instagram.com">
     <img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
-  </a>
-  
-  
-</div>
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="ZuraDoreuli">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuradoreuli&show_icons=true&locale=en&layout=compact" alt="zuradoreuli"/>
-  </a>
+  </a> 
 </div>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuradoreuli&label=Profile%20views&color=0e75b6&style=flat" alt="zuradoreuli" /> </p>
