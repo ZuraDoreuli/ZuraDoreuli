@@ -11,14 +11,11 @@
 - 👨‍💻 All of my projects are available at [zuradoreuli.ge](zuradoreuli.ge)
 
 - 📫 How to reach me **zuradoredev@gmail.com**
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
@@ -35,6 +32,24 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="zuradoreuli-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="zuradoreuli-linkedin" />
+  </a>
+  <a href="https://instagram.com/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="zuradoreuli-instagram" />
+  </a>
+  <a href="gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="zuradoreuli-email" />
+  </a>
+</div>
+<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
@@ -45,4 +60,4 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=zuradoreuli&show_icons=true&locale=en" alt="zuradoreuli"/>
   </a>
 </div>
-<br>
+
