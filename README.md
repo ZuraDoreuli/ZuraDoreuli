@@ -1,5 +1,5 @@
 [![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://zuradoreuli.ge)
-<h1 align="center">Hi there 👋,I am Zura</h1>
+<h1 align="center">Hi 👋 I am Zura</h1>
 <h3 align="center">I'm a Front-End Developer from Georgia</h3>
 <br>
 
