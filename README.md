@@ -17,7 +17,6 @@
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
-<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -35,7 +34,6 @@
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.linkedin.com/in">
     <img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
