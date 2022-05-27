@@ -39,7 +39,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/" target="blank">
+<!--   <a href="https://facebook.com/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="zuradoreuli-facebook" />
   </a>
   <a href="https://www.linkedin.com/" target="blank">
@@ -50,7 +50,19 @@
   </a>
   <a href="gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="zuradoreuli-email" />
+  </a> -->
+  
+  <a href="https://www.linkedin.com/in">
+    <img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
   </a>
+	<a href="https://www.facebook.com">
+    <img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/>
+  </a>
+	<a href="https://www.instagram.com">
+    <img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
+  </a>
+  
+  
 </div>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
