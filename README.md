@@ -15,6 +15,22 @@
 
 - 📫 How to reach me **zuradoredev@gmail.com**
 <br>
+<h2 align="center">🤝 Connect with me:</h2>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in">
+    <img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+  </a>
+	<a href="https://www.facebook.com">
+    <img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/>
+  </a>
+	<a href="https://www.instagram.com">
+    <img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
+  </a> 
+</div>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuradoreuli&label=Profile%20views&color=0e75b6&style=flat" alt="zuradoreuli" /> </p>
+<br>
 <h2 align="center">💻 Tech Stack:</h2>
 <br>
 <span>
@@ -44,19 +60,3 @@
 <span>
 	<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <span/>
-<br>
-<h2 align="center">🤝 Connect with me:</h2>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in">
-    <img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
-  </a>
-	<a href="https://www.facebook.com">
-    <img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/>
-  </a>
-	<a href="https://www.instagram.com">
-    <img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
-  </a> 
-</div>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuradoreuli&label=Profile%20views&color=0e75b6&style=flat" alt="zuradoreuli" /> </p>
