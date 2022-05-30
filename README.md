@@ -18,7 +18,7 @@
 <h2 align="center">🤝 Connect with me:</h2>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in">
+  <a href="https://linkedin.com/in/zura-doreuli-96116b240">
     <img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
   </a>
 	<a href="https://www.facebook.com">
