@@ -15,7 +15,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuradoreuli&label=Profile%20views&color=0e75b6&style=flat" alt="zuradoreuli" /></p>
 <hr>
 <h3>📬 Send me a message!</h3>
-<br>
 
 - 🤝 I am open for collaborations!
 
