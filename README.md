@@ -16,6 +16,7 @@
 <hr>
 <br>
 <h3>📬 Send me a message!</h3>
+<br>
 
 - 🤝 I am open for collaborations!
 
@@ -44,6 +45,7 @@
 <hr>
 <br>
 <h3>☕️ Your Caffeinated Contribution to My Creative Journey!</h3>
+<br>
 <div>
   <a href="https://www.buymeacoffee.com/https://bmc.link/zuradore">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
@@ -53,6 +55,7 @@
 <hr>
 <br>
 <h3>📦 Tech Toolbox: Transforming Ideas with Tools and Technologies!</h3>
+<br>
 <div>
   <span>	
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;&nbsp;
