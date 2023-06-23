@@ -43,7 +43,6 @@
 </div>
 <br>
 <hr>
-<br>
 <h3>☕️ Your Caffeinated Contribution to My Creative Journey!</h3>
 <br>
 <div>
@@ -53,7 +52,6 @@
 </div>
 <br>
 <hr>
-<br>
 <h3>📦 Tech Toolbox: Transforming Ideas with Tools and Technologies!</h3>
 <br>
 <div>
