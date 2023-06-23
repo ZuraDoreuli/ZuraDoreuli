@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zura</h1>
 <h2 align="center">I'm a Web Developer from Tbilisi, Georgia.</h2>
-<br>
 <h3>👦 About Me</h3>
 
 - 📢 Welcome! I'm a passionate web developer dedicated to creating extraordinary online experiences. With a fusion of code and creativity, I bring your visions to life, empowering users with seamless and captivating journeys.
