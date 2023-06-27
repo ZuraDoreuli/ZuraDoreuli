@@ -4,7 +4,7 @@
 
 - 📢 Welcome! I'm a passionate web developer dedicated to creating extraordinary online experiences. With a fusion of code and creativity, I bring your visions to life, empowering users with seamless and captivating journeys.
 
-- 💻 I’m currently working on my <a href="https://aleksandarpopovic.com/">personal website</a>.
+- 💻 I’m currently working on my <a href="#">Personal Website</a>.
 
 - 🧠 I trying to improve myself everyday!
 
