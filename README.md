@@ -44,7 +44,7 @@
 <h3>☕️ Your Caffeinated Contribution to My Creative Journey!</h3>
 <br>
 <div>
-  <a href="https://www.buymeacoffee.com/https://bmc.link/zuradore">
+  <a href="https://www.buymeacoffee.com/zuradore">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
   </a>
 </div>
