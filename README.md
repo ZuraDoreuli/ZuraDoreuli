@@ -4,11 +4,11 @@
 
 - 📢 Welcome! I'm a passionate web developer dedicated to creating extraordinary online experiences. With a fusion of code and creativity, I bring your visions to life, empowering users with seamless and captivating journeys.
 
-- 💻 I’m currently working on my <a href="#">Personal Website</a>.
+- 💻 I’m currently working on my <a href="#" target="_blank">Personal Website</a>.
 
 - 🧠 I trying to improve myself everyday!
 
-- 🎥 I have a <a href="https://www.youtube.com/@codekeeperzd/videos">YouTube channel</a>  I started making videos to push myself into making as many interesting and practical projects as I can, and to share with others interesting tidbits of knowledge I discovered on my coding journey. Take a peek - you might like it!
+- 🎥 I have a <a href="https://www.youtube.com/@codekeeperzd/videos" target="_blank">YouTube channel</a>  I started making videos to push myself into making as many interesting and practical projects as I can, and to share with others interesting tidbits of knowledge I discovered on my coding journey. Take a peek - you might like it!
 
 <br>  
   
@@ -26,16 +26,16 @@
 
 <br>
 <div>
-  <a href="mailto:zuradoredev@gmail.com">
+  <a href="mailto:zuradoredev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;&nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/zura-doreuli-96116b240/">
+  <a href="https://www.linkedin.com/in/zura-doreuli-96116b240/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100090428774500">
+  <a href="https://www.facebook.com/profile.php?id=100090428774500" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>&nbsp;&nbsp;
   </a>
-  <a href="https://www.youtube.com/@codekeeperzd/videos">
+  <a href="https://www.youtube.com/@codekeeperzd/videos" target="_blank">
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
 </div>
@@ -44,7 +44,7 @@
 <h3>☕️ Your Caffeinated Contribution to My Creative Journey!</h3>
 <br>
 <div>
-  <a href="https://www.buymeacoffee.com/zuradore">
+  <a href="https://www.buymeacoffee.com/zuradore" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
   </a>
 </div>
